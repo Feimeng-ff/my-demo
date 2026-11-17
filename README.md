@@ -1,4 +1,4 @@
-#第一次测试编辑 FMS Wave Coupling: WAVEWATCH III in FMS
+# FMS Wave Coupling: WAVEWATCH III in FMS
 
 ### Clone this repository, update submodules.
 
